@@ -1,0 +1,79 @@
+[{  
+    "Id": 1,
+    "Name":"Panda A",
+    "Color":"Green",
+    "Ibrid" : false,
+    "Type" : "Unloed Petrol",
+    "Accessories" : ["Hill Holder", "Safety locks","AirCondiction"],
+    "Door" : 4,
+    "AutoGearBox" : null,
+    "Interior" :{"Seat" : 4,
+                    "Color" : "Dark",
+                    "Airbag" : true
+                    }
+},
+
+{
+    "Id": 2,
+    "Name":"Panda B",
+    "Color":"Red",
+    "Ibrid" : false,
+    "Type" : "GPL",
+    "Accessories" : ["Hill Holder", "Safety locks","AirCondiction"],
+    "Door" : 4,
+    "AutoGearBox" : null,
+    "Interior" :{"Seat" : 4,
+                    "Color" : "Light",
+                    "Airbag" : false
+    }
+
+},
+
+{
+    "Id": 3,
+    "Name":"Panda C",
+    "Color":"Blue",
+    "Ibrid" : false,
+    "Type" : "Diesel",
+    "Accessories" : ["Hill Holder", "Safety locks","AirCondiction"],
+    "Door" : 4,
+    "AutoGearBox" : null,
+    "Interior" :{ "Seat" : 4,
+                    "Color" : "Light",
+                    "Airbag" : false
+    }
+
+},
+
+{
+"Id": 4,
+"Name":"Panda Hybrid A",
+"Color":"Grey",
+"Ibrid" : true,
+"Type" : "Electricity",
+"Accessories" : ["Hill Holder", "Safety locks","AirCondiction"],
+"Door" : 4,
+"AutoGearBox" : "Present",
+"Interior" :{ "Seat" : 4,
+                "Color" : "Light",
+                 "Airbag" : false
+                }
+
+},
+
+{
+"Id": 5,
+"Name":"Panda Hybrid B",
+"Color":"Pink",
+"Ibrid" : true,
+"Type" : "Electricity",
+"Accessories" : ["Hill Holder", "Safety locks","AirCondiction"],
+"Door" : 4,
+"AutoGearBox" : "Present",
+"Interior" :{  "Seat" : 4,
+                "Color" : "Light",
+                "Airbag" : false
+                }
+
+}
+]
